@@ -1,0 +1,7 @@
+1,1,,,0,Tue Nov 05 02:00:00 EET 2024,control
+2,2,,,0,Wed Nov 06 03:00:00 EET 2024,interventie
+3,3,,,0,Wed Nov 06 04:00:00 EET 2024,interventie
+5,4,Dima,Ioana,20,Wed Oct 25 10:00:00 EEST 2023,control
+7,2,Popa,Andreea,24,Sun Mar 10 10:00:00 EET 2024,control
+8,1,Pop,Ana,23,Sun Dec 10 10:00:00 EET 2023,control
+6,3,Popescu,Silvia,30,Thu Oct 20 15:00:00 EEST 2022,control
